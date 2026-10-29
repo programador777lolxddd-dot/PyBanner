@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PyBanner"
+version = "1.0.0"
+description = "Banners, títulos, marcos y separadores para la terminal sin dependencias."
+requires-python = ">=3.8"
+license = "Apache-2.0"
+authors = [
+    { name = "programador777lolxddd-dot" }
+]
+keywords = ["banner", "terminal", "cli", "ansi", "console", "toolkit"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Terminals",
+]
+
+[project.urls]
+Homepage = "https://github.com/programador777lolxddd-dot/PyBanner"
+Repository = "https://github.com/programador777lolxddd-dot/PyBanner"
+Issues = "https://github.com/programador777lolxddd-dot/PyBanner/issues"
+
+[tool.setuptools]
+py-modules = ["PyBanner"]
