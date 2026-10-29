@@ -1,11 +1,11 @@
-# PyBanner-Xevrion
+# PyBannerLibrary
 
 Banners, títulos, marcos y separadores para la terminal con Python, sin dependencias externas.
 
 ## Instalación
 
 ```bash
-pip install PyBanner-Xevrion
+pip install PyBannerLibrary
 ```
 
 ## Uso rápido
