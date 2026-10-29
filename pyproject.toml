@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "PyBanner-Xevrion"
+name = "PyBannerLibrary"
 version = "1.0.0"
 description = "Banners, títulos, marcos y separadores para la terminal sin dependencias."
 requires-python = ">=3.8"
