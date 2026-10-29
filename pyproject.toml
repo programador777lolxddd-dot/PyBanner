@@ -33,4 +33,4 @@ Repository = "https://github.com/programador777lolxddd-dot/PyBanner"
 Issues = "https://github.com/programador777lolxddd-dot/PyBanner/issues"
 
 [tool.setuptools]
-py-modules = ["PyBanner"]
+py-modules = ["pybanner"]
